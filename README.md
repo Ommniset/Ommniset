@@ -1,43 +1,26 @@
-## Adam Ben Ahmed · Cybersecurity
+## Hola, soy Adam 👋
 
-SOC Analyst L1 with experience in threat monitoring, incident triage, and system administration. Based in Barcelona — open to remote/hybrid roles.
-
----
-
-### 🛡️ Focus Areas
-`SOC / Blue Team` · `SIEM & Log Analysis` · `Incident Response` · `Sysadmin` · `Network Security`
+Profesional de ciberseguridad con base en Barcelona. Mi trayectoria viene del soporte técnico y la administración de sistemas y redes, y estoy enfocado en profundizar en ciberseguridad — monitorización de amenazas, SIEM y seguridad defensiva.
 
 ---
 
-### 🔧 Tools & Technologies
-| | |
-|---|---|
-| **Security** | SIEM platforms, IDS/IPS, Firewalls, Wireshark, Vulnerability Analysis |
-| **Systems** | Linux, Windows Server, Active Directory, VMware |
-| **Networking** | TCP/IP, VPN, PKI |
-| **Scripting** | Python, Bash |
+### 🔨 En qué estoy trabajando ahora
+
+- Finalizando el **Máster en Ciberseguridad** (2025–2026)
+- Completando el **BSc en Ciberseguridad** en la University of Lancashire (2026)
+- Desarrollando dos proyectos de ciberseguridad que publicaré aquí próximamente
 
 ---
 
-### 💼 Experience
-**SOC Analyst L1 — Devoteam** *(2024 – 2025)*
-Threat monitoring and alert triage on enterprise SIEM. ~1,000 tickets/month, 500+ users.
+### 🛠️ Herramientas que uso
 
-**IT Security Intern — Halcyon Expert SRL** *(Jun – Jul 2024)*
-Vulnerability assessment support and network monitoring.
-
----
-
-### 🎓 Education
-- BSc Cybersecurity · University of Lancashire *(2026–2027)*
-- Máster en Ciberseguridad *(2025–2026)*
-- CFGS ASIR + SMR *(2023–2025)*
+`ELK Stack` `Splunk` `OpenVAS` `Qualys` `pfSense` `Wireshark` `Nmap` `Metasploit`  
+`Linux` `Windows Server` `Active Directory` `SCCM` `Proxmox` `Hyper-V`  
+`Azure AD` `Microsoft Intune` `Python` `Bash`
 
 ---
 
-### 📁 Projects
-*Repos incoming — check back soon.*
+### 📬 Contacto
 
----
-
-📧 [your@email.com] · [LinkedIn](#)
+📧 correosadam@gmail.com  
+💼 [LinkedIn](#)
