@@ -14,9 +14,11 @@ Profesional de ciberseguridad con base en Barcelona. Mi trayectoria viene del so
 
 ### 🛠️ Herramientas que uso
 
-`ELK Stack` `Splunk` `OpenVAS` `Qualys` `pfSense` `Wireshark` `Nmap` `Metasploit`  
-`Linux` `Windows Server` `Active Directory` `SCCM` `Proxmox` `Hyper-V`  
-`Azure AD` `Microsoft Intune` `Python` `Bash`
+`Metasploit` `Nmap` `Wireshark` `Burp Suite` `Hydra` `SQLMap` `Kali Linux` `OpenVAS` `Qualys` `pfSense` `Splunk` `ELK Stack` `Wazuh` `Suricata` `Volatility` `Iptables` `SIEM`
+
+`Active Directory` `GPOs` `SCCM` `Azure AD` `Microsoft Intune` `Citrix` `Remote Desktop` `Jira` `Office 365` `Gestión de ticketing`
+
+`Linux` `Windows Server` `Proxmox` `Docker` `Ansible` `Python` `Bash` `PowerShell` `SQL` `PostgreSQL` `Nginx` `SSH` `DNS` `DHCP` `VLANs` `Subnetting` `AWS`
 
 ---
 
