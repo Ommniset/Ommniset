@@ -18,7 +18,7 @@ Profesional de ciberseguridad con base en Barcelona. Mi trayectoria viene del so
 
 `Active Directory` `GPOs` `SCCM` `Azure AD` `Microsoft Intune` `Citrix` `Remote Desktop` `Jira` `Netskope` `Gestión de ticketing` `Proofpoint`
 
-`Linux` `Windows Server` `Proxmox` `Docker` `Ansible` `Python` `Bash` `PowerShell` `SQL` `PostgreSQL` `Nginx` `SSH` `DNS` `DHCP` `VLANs` `Subnetting` `AWS`
+`Linux Avanzado` `Windows Server` `Proxmox` `Docker` `Ansible` `Python` `Bash` `PowerShell` `SQL` `PostgreSQL` `Nginx` `SSH` `DNS` `DHCP` `VLANs` `Subnetting` `AWS`
 
 ---
 
