@@ -12,7 +12,7 @@ SysAdmin y Cybersecurity Analyst. Mi trayectoria viene del soporte técnico y la
 
 ---
 
-### 🛠️ Herramientas que uso
+### 🛠️ Stack Técnico
 
 `Metasploit` `Nmap` `Wireshark` `Burp Suite` `Hydra` `SQLMap` `Kali Linux` `OpenVAS` `Qualys` `pfSense` `Splunk` `ELK Stack` `Wazuh` `Suricata` `Volatility` `Iptables` `SIEM`
 
