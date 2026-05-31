@@ -7,7 +7,8 @@ Profesional de ciberseguridad con base en Barcelona. Mi trayectoria viene del so
 ### 🔨 En qué estoy trabajando ahora
 
 - Completando el **BSc en Ciberseguridad and Networking** en la University of Lancashire (2026)
-- Desarrollando dos proyectos de ciberseguridad que publicaré aquí próximamente
+- Desarrollando **Burblit**, un prototipo de mensajería web con cifrado extremo a extremo (E2EE) y consideraciones post-cuánticas (X25519 + ML-KEM)
+- Manteniendo y evolucionando **Q-Gunter**, una plataforma SaaS B2B de pentesting automatizado con agentes de IA (Claude tool-use, Docker multi-tenant, arquitectura HA) — [q-gunter.cat](https://q-gunter.cat)
 
 ---
 
