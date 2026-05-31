@@ -16,7 +16,7 @@ Profesional de ciberseguridad con base en Barcelona. Mi trayectoria viene del so
 
 `Metasploit` `Nmap` `Wireshark` `Burp Suite` `Hydra` `SQLMap` `Kali Linux` `OpenVAS` `Qualys` `pfSense` `Splunk` `ELK Stack` `Wazuh` `Suricata` `Volatility` `Iptables` `SIEM`
 
-`Active Directory` `GPOs` `SCCM` `Azure AD` `Microsoft Intune` `Citrix` `Remote Desktop` `Jira` `Office 365` `Gestión de ticketing`
+`Active Directory` `GPOs` `SCCM` `Azure AD` `Microsoft Intune` `Citrix` `Remote Desktop` `Jira` `Netskope` `Gestión de ticketing` `Proofpoint`
 
 `Linux` `Windows Server` `Proxmox` `Docker` `Ansible` `Python` `Bash` `PowerShell` `SQL` `PostgreSQL` `Nginx` `SSH` `DNS` `DHCP` `VLANs` `Subnetting` `AWS`
 
