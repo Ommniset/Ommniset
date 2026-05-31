@@ -6,7 +6,7 @@ Profesional de ciberseguridad con base en Barcelona. Mi trayectoria viene del so
 
 ### 🔨 En qué estoy trabajando ahora
 
-- Completando el **BSc en Ciberseguridad** en la University of Lancashire (2026)
+- Completando el **BSc en Ciberseguridad and Networking** en la University of Lancashire (2026)
 - Desarrollando dos proyectos de ciberseguridad que publicaré aquí próximamente
 
 ---
