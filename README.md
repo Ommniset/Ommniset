@@ -14,11 +14,13 @@ SysAdmin y Cybersecurity Analyst. Mi trayectoria viene del soporte técnico y la
 
 ### 🛠️ Stack Técnico
 
-`Metasploit` `Nmap` `Wireshark` `Burp Suite` `Hydra` `SQLMap` `Kali Linux` `OpenVAS` `Qualys` `pfSense` `Splunk` `ELK Stack` `Wazuh` `Suricata` `Volatility` `Iptables` `SIEM`
+`Metasploit` `Nmap` `Wireshark` `Burp Suite` `Hydra` `SQLMap` `Kali Linux` `OpenVAS` `Zabbix` `Qualys` `pfSense` `Splunk` `ELK Stack` `Wazuh` `Suricata` `Volatility` `Iptables` `SIEM` 
 
 `Active Directory` `GPOs` `SCCM` `Azure AD` `Microsoft Intune` `Citrix` `Remote Desktop` `Jira` `Netskope` `Gestión de ticketing` `Proofpoint`
 
-`Linux Avanzado` `Windows Server` `Proxmox` `Docker` `Ansible` `Python` `Bash` `PowerShell` `SQL` `PostgreSQL` `Nginx` `SSH` `DNS` `DHCP` `VLANs` `Subnetting` `AWS`
+`Linux Avanzado` `Windows Server` `Proxmox VE` `Docker` `Ansible` `Python` `Bash` `PowerShell` `SQL` `PostgreSQL` `LXC` `Terraform` `Ansible` `pfSense` `VLANs` `Wireguard` `DNS/DHCP` `Google Cloud` `AWS`
+
+`Python` `AI Agents` `LLM APIs` `N8N` `Huggingface` 
 
 ---
 
