@@ -27,4 +27,4 @@ SysAdmin y Cybersecurity Analyst. Mi trayectoria viene del soporte técnico y la
 ### 📬 Contacto
 
 📧 correosadam@gmail.com  
-💼 [LinkedIn](#)
+💼 [LinkedIn](https://www.linkedin.com/in/adam-b-a504a1297/)
