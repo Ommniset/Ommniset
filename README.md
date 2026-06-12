@@ -2,6 +2,8 @@
 
 SysAdmin y Cybersecurity Analyst. Mi trayectoria viene del soporte técnico y la administración de sistemas y redes, y estoy enfocado en profundizar en ciberseguridad — monitorización de amenazas, SIEM y seguridad defensiva/ofensiva.
 
+Más sobre mí y mi trabajo en https://ommniset.github.io
+
 ---
 
 ### 🔨 En qué estoy trabajando ahora
